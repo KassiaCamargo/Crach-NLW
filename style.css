@@ -91,4 +91,26 @@ html,
         gap: 0.5rem;
 
         justify-content: center;
-      }     
+      }   
+
+.linkedin:hover {
+  transition: 0.1s;
+  filter: brightness(0.8);
+}
+
+.facebook:hover {
+  transition: 0.1s;
+  filter: brightness(0.8);
+}
+
+.instagram:hover {
+  transition: 0.1s;
+  filter: brightness(0.8);
+}
+
+#userLink:hover {
+  transition: 0.1s;
+  font-size: 1rem;
+  font-weight: 700;
+  transform: scale(1.1);
+}
